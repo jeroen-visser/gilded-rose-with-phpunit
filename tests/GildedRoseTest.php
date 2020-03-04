@@ -1,5 +1,7 @@
 <?php
 
+namespace Tests;
+
 use App\GildedRose;
 use PHPUnit\Framework\TestCase;
 
